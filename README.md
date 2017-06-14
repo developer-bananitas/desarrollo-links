@@ -1,7 +1,7 @@
 # desarrollo-links
 #ALVARITO-CONDORI#  
 **links de desarrollo**  
-**sintaxis README.md**  
+***sintaxis README.md***  
 http://joedicastro.com/pages/markdown.html  
 ***patrones de diseño***  
 http://caniuse.com/  
