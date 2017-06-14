@@ -2,7 +2,7 @@
 #ALVARITO-CONDORI#  
 **links de desarrollo**  
 **sintaxis README.md**  
-http://joedicastro.com/pages/markdown.html
+http://joedicastro.com/pages/markdown.html  
 ***patrones de diseño***  
 http://caniuse.com/  
 https://dribbble.com/  
